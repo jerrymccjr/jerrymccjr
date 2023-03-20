@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating Azure Tenant Account, Subscription and Resource Groups]([https://github.com/jerrymccjr/configure-ad](https://github.com/jerrymccjr/Creating-Azure-Tenant-Account-Subscription-and-Resource-Groups))
+  - [Creating Azure Tenant Account, Subscription and Resource Groups]([https://github.com/jerrymccjr/configure-ad](https://github.com/jerrymccjr/Creating-Azure-Tenant-Account-Subscription-and-Resource-Groups)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jerrymccjr/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jerrymccjr/azure-network-protocols)
 
