@@ -12,12 +12,27 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
 
-- <b>Lab 3: osTicket Help Desk Ticketing System (from scratch in virtual environment)</b>
+- <b>Lab 3: osTicket Help Desk Ticketing System (in Azure virtual environment)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jerrymccjr/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
 
-- <b>Lab 4: Virtual Private Networks (VPNs)</b>
+- <b>Lab 4: Virtual Private Networks (VPNs) (in Azure virtual environment)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jerrymccjr/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
+
+- <b>Lab 5: Microsoft Active Directory (in Azure virtual environment)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jerrymccjr/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
+
+- <b>Lab 6: Domain Name System (DNS) (in Azure virtual environment)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jerrymccjr/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
+
+- <b>Lab 7: Network File Shares and Permissions (in Azure virtual environment)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jerrymccjr/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
