@@ -7,12 +7,17 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jerrymccjr/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jerrymccjr/azure-network-protocols)
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Lab 2: Azure Compute and Networking</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jerrymccjr/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Lab 3: osTicket Help Desk Ticketing System (from scratch in virtual environment)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jerrymccjr/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
+
+- <b>Lab 4: Virtual Private Networks (VPNs)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jerrymccjr/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jerrymccjr/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jerrymccjr/ticket-lifecycle)
