@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Lab 1: Microsoft Azure Crash Course</b>
-  - [Azure: Creating Tenant Account, Subscription and Resource Groups](https://github.com/jerrymccjr/Azure-Creating-Tenant-Account-Subscription-and-Resource-Groups)
+  - [Lab 1A: Creating Tenant Account, Subscription and Resource Groups](https://github.com/jerrymccjr/Azure-Creating-Tenant-Account-Subscription-and-Resource-Groups)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jerrymccjr/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jerrymccjr/azure-network-protocols)
 
