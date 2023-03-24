@@ -4,7 +4,7 @@
 
 - <b>Lab 1: Microsoft Azure Crash Course</b>
   - [Lab 1A: Creating Tenant Account, Subscription and Resource Groups](https://github.com/jerrymccjr/Azure-Creating-Tenant-Account-Subscription-and-Resource-Groups)
-  - [Lab 1B: Creating our First Resource: Storage Account](https://github.com/jerrymccjr/configure-ad)
+  - [Lab 1B: Creating our First Resource: Storage Account](https://github.com/jerrymccjr/Lab-1B-Creating-our-First-Resource-Storage-Account)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jerrymccjr/azure-network-protocols)
 
 - <b>Lab 2: Azure Compute and Networking</b>
